@@ -11,5 +11,5 @@ First of all all information and software available on this site are for educati
 
 My first blog bot will be short, for now on it's more of a test than an artible.
 
-So I would like to introduce on of my work (in colaboration with [@torreantoine](https://github.com/torreantoine/)): ![KeyLoscopie's repository](https://github.com/s-b-n/KeyLoscopie)
+So I would like to introduce on of my work (in colaboration with [@torreantoine](https://github.com/torreantoine/) ) : [KeyLoscopie's repository](https://github.com/s-b-n/KeyLoscopie)
 
